@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "网站介绍"
+title: "FRC6433队"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-这是Maximu535的网站
+FRC6433队是来自于杭州第四中学国际部的一支队伍。
